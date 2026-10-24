@@ -1,6 +1,11 @@
 {
   "schema": 1,
-  "version": "1.45.2",
-  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.2.mdu",
-  "sha256": "03161ce8636abee8bd18d2b75dcec1b74fc0b88fa0a7da06453549c40a567075"
+  "version": "1.45.3",
+  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.3.mdu",
+  "sha256": "58fe589ebbc52341cb3ae94a8e3e7b480c91a47b8b197f98f0a531de9b6d5e7f",
+  "notes": [
+    "Tydligt kvitto efter uppdatering: säkerhetskopia, server, skärm och dagsvy kontrollerade.",
+    "Ny kortlista visar vad som ändrats innan du godkänner uppdateringen.",
+    "Lösenordsstatus syns tydligt, och ett glömt lösenord kan återställas med en lokal engångskod."
+  ]
 }
