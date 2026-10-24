@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "1.45.3",
-  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.3.mdu",
-  "sha256": "0064076c539cabb0099e3e349d3af8c5e1da768c8e6db9c3f303fd2bec1d891f",
+  "version": "1.45.4",
+  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.4.mdu",
+  "sha256": "01d7db315ae70c4a008b8c6d1dc96e6138a4cd1064bcf595ca965bdf555d7568",
   "notes": [
-    "Tydligt kvitto efter uppdatering: säkerhetskopia, server, skärm och dagsvy kontrollerade.",
-    "Ny kortlista visar vad som ändrats innan du godkänner uppdateringen.",
-    "Lösenordsstatus syns tydligt, och ett glömt lösenord kan återställas med en lokal engångskod."
+    "Diskret driftvarning i vuxenredigeraren om backup, skärmvisning, uppdatering eller lagring behöver ses över.",
+    "Systemkontrollen visar senaste automatiska kopian och konkreta nästa steg utan privata uppgifter.",
+    "Barnets dagsvy ändras inte; en ny Pi väntar lugnt på sin första nattliga säkerhetskopia."
   ]
 }

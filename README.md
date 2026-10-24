@@ -14,8 +14,8 @@ En `.mdu`-fil är krypterad med AES-256-GCM och ett nyckelvärde härlett från
 det gemensamma lösenordet. Det skyddar mot vanlig nedladdning, men är inte ett
 kopieringsskydd mot någon som har full tillgång till en installerad Pi.
 
-Senaste filen: [MMM-MinDag-1.45.3.mdu](MMM-MinDag-1.45.3.mdu). Kontrollera
-nedladdningen med `sha256sum -c MMM-MinDag-1.45.3.mdu.sha256` innan manuell
+Senaste filen: [MMM-MinDag-1.45.4.mdu](MMM-MinDag-1.45.4.mdu). Kontrollera
+nedladdningen med `sha256sum -c MMM-MinDag-1.45.4.mdu.sha256` innan manuell
 installation. Pi:ns uppdaterare kontrollerar dessutom filen automatiskt.
 
 Äldre `.mdu`-filer ingår inte längre i den aktuella grenen. Tidigare Git-commits
