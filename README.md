@@ -17,3 +17,7 @@ kopieringsskydd mot någon som har full tillgång till en installerad Pi.
 Senaste filen: [MMM-MinDag-1.45.3.mdu](MMM-MinDag-1.45.3.mdu). Kontrollera
 nedladdningen med `sha256sum -c MMM-MinDag-1.45.3.mdu.sha256` innan manuell
 installation. Pi:ns uppdaterare kontrollerar dessutom filen automatiskt.
+
+Äldre `.mdu`-filer ingår inte längre i den aktuella grenen. Tidigare Git-commits
+kan fortfarande innehålla dem; ett lösenordsbyte kan inte göra redan publicerade
+filer hemliga i efterhand.
