@@ -1,0 +1,7 @@
+# Endast granskade, krypterade utgåvor får läggas i det offentliga repot.
+*
+!.gitignore
+!README.md
+!latest.json
+!MMM-MinDag-1.45.1.mdu
+!MMM-MinDag-1.45.1.mdu.sha256
