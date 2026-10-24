@@ -2,7 +2,7 @@
   "schema": 1,
   "version": "1.45.4",
   "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.4.mdu",
-  "sha256": "01d7db315ae70c4a008b8c6d1dc96e6138a4cd1064bcf595ca965bdf555d7568",
+  "sha256": "c84a69b21da5937ef8f4e506beda506995bdfd4d5977c8154b9681cc49d60912",
   "notes": [
     "Diskret driftvarning i vuxenredigeraren om backup, skärmvisning, uppdatering eller lagring behöver ses över.",
     "Systemkontrollen visar senaste automatiska kopian och konkreta nästa steg utan privata uppgifter.",
