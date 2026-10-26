@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "1.45.4",
-  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.4.mdu",
-  "sha256": "c84a69b21da5937ef8f4e506beda506995bdfd4d5977c8154b9681cc49d60912",
+  "version": "1.45.5",
+  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.5.mdu",
+  "sha256": "d62dbdb36cc27d6975841a20132dddbcb3c209c4b47ba796a87837879e247a28",
   "notes": [
-    "Diskret driftvarning i vuxenredigeraren om backup, skärmvisning, uppdatering eller lagring behöver ses över.",
-    "Systemkontrollen visar senaste automatiska kopian och konkreta nästa steg utan privata uppgifter.",
-    "Barnets dagsvy ändras inte; en ny Pi väntar lugnt på sin första nattliga säkerhetskopia."
+    "Ladda ned en säkerhetskopia som ZIP direkt till datorn, inklusive personfoton och egna bildstöd.",
+    "Återställ från nya ZIP-filer eller äldre JSON-kopior med samma förhandskontroll och bekräftelse.",
+    "De dagliga automatiska kopiorna fortsätter oförändrat; ZIP-filen är inte krypterad och ska förvaras privat."
   ]
 }
