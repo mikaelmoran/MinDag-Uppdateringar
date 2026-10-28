@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "1.45.12",
-  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.12.mdu",
-  "sha256": "2399ec04f59dc8d8f47de652c7acea5c4beafa0081ba689ba0fcecdaa958c562",
+  "version": "1.45.13",
+  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.13.mdu",
+  "sha256": "8749da245897c04ac2ac95c7b5aaec90efa8d8de5197c2dfcb42e23a07aafcfc",
   "notes": [
-    "Personradering uppdaterar alla berörda filer som en helhet och kan återgå säkert vid avbrott.",
-    "Långsamma skärmar kan inte längre samla en växande kö av liveuppdateringar på Pi:n.",
-    "Skadade data ger ett tydligt återställningsläge; en vuxen kan välja en verifierad kopia via SSH."
+    "Automatiska säkerhetskopior valideras och provåterställs i en separat testmapp innan de räknas som klara.",
+    "Systemkontrollen varnar om senaste kopian saknar giltig verifiering.",
+    "För stora JSON- och ZIP-uppladdningar får ett tydligt fel i stället för en bruten anslutning."
   ]
 }
