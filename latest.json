@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "1.45.8",
-  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.8.mdu",
-  "sha256": "e9c659744c824195b749d5392fc8abed46eca8a738d5afaf9bd79ab6903f6507",
+  "version": "1.45.10",
+  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.10.mdu",
+  "sha256": "94cb8d8339bcafe3d186be661b67255190c4b021b3bfb91f6055d6d56edc21cc",
   "notes": [
-    "TV- och fokusvyn reagerar direkt på ändringar i schema, personer, framsteg och timer.",
-    "Färre bakgrundsfrågor sparar resurser på Raspberry Pi. En regelbunden säkerhetskontroll finns kvar.",
-    "Om den direkta anslutningen bryts återgår visningen automatiskt till tidigare uppdateringsintervall."
+    "Den roterande röda markeringen ser likadan ut men belastar Pi:ns grafik betydligt mindre.",
+    "Skärmskyddets pixel-flytt och nedtoning sker nu kort och med mellanrum, inte som en ständig helskärmsanimation.",
+    "Avklarade aktiviteter sparas strömtåligt; en avbruten skrivning lämnar förra markeringen kvar."
   ]
 }
