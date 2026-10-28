@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "1.45.10",
-  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.10.mdu",
-  "sha256": "94cb8d8339bcafe3d186be661b67255190c4b021b3bfb91f6055d6d56edc21cc",
+  "version": "1.45.11",
+  "url": "https://raw.githubusercontent.com/mikaelmoran/MinDag-Uppdateringar/main/MMM-MinDag-1.45.11.mdu",
+  "sha256": "2d2fa408b9d833f9b652fe53bd0879a162a17f91463dba348009c05eb1d7b012",
   "notes": [
-    "Den roterande röda markeringen ser likadan ut men belastar Pi:ns grafik betydligt mindre.",
-    "Skärmskyddets pixel-flytt och nedtoning sker nu kort och med mellanrum, inte som en ständig helskärmsanimation.",
-    "Avklarade aktiviteter sparas strömtåligt; en avbruten skrivning lämnar förra markeringen kvar."
+    "Schema, kort, personer, foton, timer och skärmtider sparas strömtåligt.",
+    "En avbruten återställning av säkerhetskopia kan återgå till föregående kompletta data vid nästa start.",
+    "Dagsvyn och åtkomsten på hemnätet är oförändrade i denna version."
   ]
 }
